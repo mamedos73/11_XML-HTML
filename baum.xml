@@ -1,0 +1,14 @@
+<wurzel>
+    <stamm>
+        <ast>
+            <zweig></zweig>
+            <zweig></zweig>
+        </ast>
+        <ast>
+            <zweig>
+                <blatt></blatt>
+            </zweig>
+        </ast>
+        <ast></ast>
+    </stamm>
+</wurzel>
